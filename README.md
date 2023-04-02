@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cs_maddheshiya" target="blank"><img align="center" src="" alt="cs_maddheshiya" height="30" width="40" /></a>
+<a href="https://twitter.com/cs_maddheshiya" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7F-XrEokTlKSsuJUVFQSECLYF1G7gM3fXNWWpK4Omaw&s" alt="cs_maddheshiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankita-maddheshiya-705236258/" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/ankita-maddheshiya-705236258/" height="30" width="40" /></a>
 </p>
 
