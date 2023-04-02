@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitamaddheshiya&label=Profile%20views&color=0e75b6&style=flat" alt="ankitamaddheshiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitamaddheshiya" alt="ankitamaddheshiya" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitamaddheshiya" alt="ankitamaddheshiya" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/cs_maddheshiya" target="blank"><img src="https://img.shields.io/twitter/follow/cs_maddheshiya?logo=twitter&style=for-the-badge" alt="cs_maddheshiya" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/cs_maddheshiya" target="blank"><img src="https://img.shields.io/twitter/follow/cs_maddheshiya?logo=twitter&style=for-the-badge" alt="cs_maddheshiya" /></a> </p> -->
 
 - 🔭 I’m currently working on [mytable.com](https://lambent-torrone-7fed0e.netlify.app)
 
