@@ -19,8 +19,8 @@
 
 - 📫 How to reach me **maddeshiyaman5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ruCBR42tanCwtO6Ij0luv8hfa3aw4cNx/view?usp=sharing](https://drive.google.com/file/d/1ruCBR42tanCwtO6Ij0luv8hfa3aw4cNx/view?usp=sharing)
--  📄 Know more about me <a href="https://visionary-toffee-d2183c.netlify.app">Projects</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1ruCBR42tanCwtO6Ij0luv8hfa3aw4cNx/view?usp=sharing](https://drive.google.com/file/d/1ruCBR42tanCwtO6Ij0luv8hfa3aw4cNx/view?usp=sharing)"</a>
+-  📄 Know more about me <a href="ankitamaddheshiya.github.io">Projects</a>
 
 - ⚡ Fun fact **I am cool !**
 
