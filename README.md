@@ -1,3 +1,5 @@
+<img src="https://i0.wp.com/i.pinimg.com/originals/81/2c/22/812c229c60047ee347f778135cd76b81.gif?resize=160,120">
+
 <h1 align="center">Hi 👋, I'm Ankita Maddheshiya</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
