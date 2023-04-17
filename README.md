@@ -1,4 +1,4 @@
-<img width="60%" height="200px" text-align= "center" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
+<img width="80%" height="240px"  src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
 
 <h1 align="center">Hi 👋, I'm Ankita Maddheshiya</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
