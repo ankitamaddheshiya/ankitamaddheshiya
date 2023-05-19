@@ -27,7 +27,7 @@
 - 📫 How to reach me **maddeshiyaman5@gmail.com**
 
 - 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1ruCBR42tanCwtO6Ij0luv8hfa3aw4cNx/view?usp=sharing](https://drive.google.com/file/d/1ruCBR42tanCwtO6Ij0luv8hfa3aw4cNx/view?usp=sharing)">Resume</a>
--  📄 Know more about me <a href="https://ankitamaddheshiya.github.io">Projects</a>
+-  📄 Know more about me <a href="https://ankitamaddheshiya.github.io">Portfolio</a>
 
 - ⚡ Fun fact **I am cool !**
 
